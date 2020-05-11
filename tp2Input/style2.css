@@ -1,6 +1,6 @@
-div#div1 {text-align: center;}
 div#div1 {text-align: center;background-color: white; opacity: 0.5;}
 body { font-family: Verdana, sans-serif; background-color: #D2DC9D;}
+div#info p{font-style: italic; color: #D3D3D3;}
 span.label{color:  #808080;font-style: normal;font-weight: bold;}
 span.price{color: #808080;font-family: georgia; font-style: italic;}
 h1 {color:  #993399;font-family: "Marko one",Geogia; text-shadow: .1em .1em .1em silver; font-size: 1.5em;}

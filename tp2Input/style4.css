@@ -1,6 +1,6 @@
-div#div1 {text-align: center;}
 div#div1 {text-align: center; opacity: 0.5; background: url(/tp2Input/images/purpledot.png) left top repeat-y,url(/tp2Input/images/purpledot.png) right top repeat-y,url(/tp2Input/images/gooseshadow.png) 90% 100% no-repeat white;}
 body { font-family: Verdana, sans-serif;background: #D2DC9D url(/tp2Input/images/blackgoose.png) 50% 50% no-repeat;}
+div#info p{font-style: italic; color: #D3D3D3;}
 span.label{color:  #808080;font-style: normal;font-weight: bold;}
 span.price{color: #808080;font-family: georgia; font-style: italic;}
 h1 {color:  #993399;font-family: "Marko one",Geogia; text-shadow: .1em .1em .1em silver; font-size: 1.5em;}
