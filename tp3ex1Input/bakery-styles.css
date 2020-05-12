@@ -1,0 +1,58 @@
+body{font-family: "Stint Ultra Expanded";}
+
+header{text-align: center; 
+    background-image: url(/tp3ex1Input/images/croissants_banner.jpg);}
+header p{font-style: italic;
+    color: #FFFFFF;}
+nav{background-color: #783F27;}
+nav ul{list-style-type: 
+    none;text-transform: 
+    uppercase;font-family: 
+    Verdana;font-size: 0.8em; 
+    letter-spacing: 0.3em;}
+a{color: #F9AB33; 
+    text-decoration: none; 
+    border-bottom: dotted 1px;}
+a:hover{color: #608080;}
+
+
+div.main {
+    border-top-color: #EADDC4;
+    border-top-style: double;
+    border-top-left-radius: 25px;
+    
+    border-top-right-radius: 25px;
+
+    border-bottom-color: #EADDC4;
+    border-bottom-style: double;
+    border-bottom-left-radius: 25px;
+
+    border-left-color: #EADDC4;
+    border-left-style: double;
+    border-bottom-right-radius: 25px;
+
+    margin-top: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 2.5%;
+
+    padding: 1em;
+}
+
+h2{ color: #555555;}
+h3{ text-transform: uppercase;
+    letter-spacing: 0.2em; 
+    color: #7A0002;
+    border-top: solid 1px;
+    border-left: solid 3px;
+    padding: 1em;
+    margin-top: 2.5em;}
+
+div.hours{  background-color: #F6F3ED;
+            margin: 2.5% 2.5% 2.5% 2.5%;
+            padding: 1em;
+            border: solid #7A0002;}
+span.days{color: #783F27; font-family: verdana;}
+
+
+footer{background-color: #783F27; color: #EADDC4;text-align: center;padding: 1em;}
